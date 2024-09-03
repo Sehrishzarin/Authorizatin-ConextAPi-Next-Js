@@ -7,6 +7,7 @@ const Header = () => {
  
   const { user, logout} = useAuth();
   
+  
  // console.log("Logged in user is there",user)
   return (
     <header data-bs-theme="dark">
